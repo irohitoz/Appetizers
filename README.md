@@ -76,3 +76,18 @@ To run this project locally:
    - Click on **Run** or press `Cmd + R`.
 
 ---
+
+---
+
+## 📸 Screenshots
+
+<p align="center">
+    <img src="path-to-screenshot1.png" alt="AppetizerListing" width="250">
+    <img src="path-to-screenshot2.png" alt="AppetizerDetails" width="250">
+    <img src="path-to-screenshot3.png" alt="Accounts" width="250">
+    <img src="path-to-screenshot3.png" alt="AppetizerOrder" width="250">
+    <img src="path-to-screenshot3.png" alt="AppetizerDelete" width="250">
+</p>
+
+---
+
