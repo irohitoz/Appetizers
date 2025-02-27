@@ -1,0 +1,38 @@
+{
+  "" : {
+    "diagnostics" : "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Previews/iphonesimulator/Appetizers/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/Appetizers-master.dia",
+    "emit-module-dependencies" : "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Previews/iphonesimulator/Appetizers/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/Appetizers-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Previews/iphonesimulator/Appetizers/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/Appetizers-master-emit-module.dia",
+    "swift-dependencies" : "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Previews/iphonesimulator/Appetizers/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/Appetizers-master.swiftdeps"
+  },
+  "/Users/Rohitoz/Documents/Appetizers/Appetizers/AppetizersApp.swift" : {
+    "const-values" : "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Previews/iphonesimulator/Appetizers/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/AppetizersApp.swiftconstvalues",
+    "dependencies" : "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Previews/iphonesimulator/Appetizers/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/AppetizersApp.d",
+    "diagnostics" : "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Previews/iphonesimulator/Appetizers/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/AppetizersApp.dia",
+    "index-unit-output-path" : "/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/AppetizersApp.o",
+    "llvm-bc" : "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Previews/iphonesimulator/Appetizers/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/AppetizersApp.bc",
+    "object" : "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Previews/iphonesimulator/Appetizers/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/AppetizersApp.o",
+    "swift-dependencies" : "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Previews/iphonesimulator/Appetizers/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/AppetizersApp.swiftdeps",
+    "swiftmodule" : "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Previews/iphonesimulator/Appetizers/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/AppetizersApp~partial.swiftmodule"
+  },
+  "/Users/Rohitoz/Documents/Appetizers/Appetizers/AppetizerTabView.swift" : {
+    "const-values" : "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Previews/iphonesimulator/Appetizers/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/AppetizerTabView.swiftconstvalues",
+    "dependencies" : "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Previews/iphonesimulator/Appetizers/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/AppetizerTabView.d",
+    "diagnostics" : "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Previews/iphonesimulator/Appetizers/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/AppetizerTabView.dia",
+    "index-unit-output-path" : "/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/AppetizerTabView.o",
+    "llvm-bc" : "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Previews/iphonesimulator/Appetizers/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/AppetizerTabView.bc",
+    "object" : "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Previews/iphonesimulator/Appetizers/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/AppetizerTabView.o",
+    "swift-dependencies" : "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Previews/iphonesimulator/Appetizers/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/AppetizerTabView.swiftdeps",
+    "swiftmodule" : "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Previews/iphonesimulator/Appetizers/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/AppetizerTabView~partial.swiftmodule"
+  },
+  "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Previews/iphonesimulator/Appetizers/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Previews/iphonesimulator/Appetizers/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Previews/iphonesimulator/Appetizers/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Previews/iphonesimulator/Appetizers/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Previews/iphonesimulator/Appetizers/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Previews/iphonesimulator/Appetizers/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Previews/iphonesimulator/Appetizers/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Previews/iphonesimulator/Appetizers/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

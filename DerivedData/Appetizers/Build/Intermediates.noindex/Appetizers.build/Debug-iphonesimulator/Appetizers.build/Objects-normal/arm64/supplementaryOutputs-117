@@ -1,0 +1,18 @@
+"/Users/Rohitoz/Documents/Appetizers/Appetizers/Model/Appetizer.swift":
+  const-values: "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/Appetizer.swiftconstvalues"
+  swift-dependencies: "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/Appetizer.swiftdeps"
+  diagnostics: "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/Appetizer.dia"
+  dependencies: "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/Appetizer.d"
+  object: "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/Appetizer.o"
+"/Users/Rohitoz/Documents/Appetizers/Appetizers/Utilities/Alerts/APError.swift":
+  dependencies: "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/APError.d"
+  diagnostics: "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/APError.dia"
+  const-values: "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/APError.swiftconstvalues"
+  swift-dependencies: "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/APError.swiftdeps"
+  object: "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/APError.o"
+"/Users/Rohitoz/Documents/Appetizers/Appetizers/SplashScreenView.swift":
+  object: "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/SplashScreenView.o"
+  dependencies: "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/SplashScreenView.d"
+  const-values: "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/SplashScreenView.swiftconstvalues"
+  diagnostics: "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/SplashScreenView.dia"
+  swift-dependencies: "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/SplashScreenView.swiftdeps"

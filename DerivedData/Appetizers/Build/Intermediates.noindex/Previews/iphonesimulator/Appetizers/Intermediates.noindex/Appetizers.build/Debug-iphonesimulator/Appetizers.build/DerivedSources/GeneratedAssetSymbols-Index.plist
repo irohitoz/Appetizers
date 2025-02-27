@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colors</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/Rohitoz/Documents/Appetizers/Appetizers/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameBrandPrimary</string>
+			<key>relativePath</key>
+			<string>./brandPrimary.colorset</string>
+			<key>swiftSymbol</key>
+			<string>brandPrimary</string>
+		</dict>
+	</array>
+	<key>images</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/Rohitoz/Documents/Appetizers/Appetizers/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameAsianFlankSteak</string>
+			<key>relativePath</key>
+			<string>./asian-flank-steak.imageset</string>
+			<key>swiftSymbol</key>
+			<string>asianFlankSteak</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/Rohitoz/Documents/Appetizers/Appetizers/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameFoodPlaceholder</string>
+			<key>relativePath</key>
+			<string>./food-placeholder.imageset</string>
+			<key>swiftSymbol</key>
+			<string>foodPlaceholder</string>
+		</dict>
+	</array>
+	<key>symbols</key>
+	<array/>
+</dict>
+</plist>

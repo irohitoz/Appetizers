@@ -1,0 +1,18 @@
+"/Users/Rohitoz/Documents/Appetizers/Appetizers/Screens/AccountView/AccountView.swift":
+  diagnostics: "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/AccountView.dia"
+  dependencies: "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/AccountView.d"
+  swift-dependencies: "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/AccountView.swiftdeps"
+  const-values: "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/AccountView.swiftconstvalues"
+  object: "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/AccountView.o"
+"/Users/Rohitoz/Documents/Appetizers/Appetizers/Views/Cells/AppetizerListCell.swift":
+  dependencies: "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/AppetizerListCell.d"
+  swift-dependencies: "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/AppetizerListCell.swiftdeps"
+  const-values: "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/AppetizerListCell.swiftconstvalues"
+  object: "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/AppetizerListCell.o"
+  diagnostics: "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/AppetizerListCell.dia"
+"/Users/Rohitoz/Documents/Appetizers/Appetizers/Utilities/Extensions/Color+Ext.swift":
+  dependencies: "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/Color+Ext.d"
+  diagnostics: "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/Color+Ext.dia"
+  const-values: "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/Color+Ext.swiftconstvalues"
+  object: "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/Color+Ext.o"
+  swift-dependencies: "/Users/Rohitoz/Documents/Appetizers/DerivedData/Appetizers/Build/Intermediates.noindex/Appetizers.build/Debug-iphonesimulator/Appetizers.build/Objects-normal/arm64/Color+Ext.swiftdeps"

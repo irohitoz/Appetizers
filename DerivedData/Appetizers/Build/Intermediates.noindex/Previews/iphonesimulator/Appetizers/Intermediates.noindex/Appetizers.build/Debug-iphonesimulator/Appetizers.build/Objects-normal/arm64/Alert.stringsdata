@@ -1,0 +1,32 @@
+{
+  "source": "/Users/Rohitoz/Documents/Appetizers/Appetizers/Utilities/Alerts/Alert.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Server error"
+      },
+      {
+        "comment": "",
+        "key": "The data received from the ser was incalid, Please contact support."
+      },
+      {
+        "comment": "",
+        "key": "OK"
+      },
+      {
+        "comment": "",
+        "key": "Invalid response from the server please try again later or contact support."
+      },
+      {
+        "comment": "",
+        "key": "There was an issue connecting to the server. If this persists, please contact support."
+      },
+      {
+        "comment": "",
+        "key": "Unable to complete your request at this time. Please check your network connection."
+      }
+    ]
+  },
+  "version": 1
+}
