@@ -82,11 +82,11 @@ To run this project locally:
 ## 📸 Screenshots
 
 <p align="center">
-    <img src="path-to-screenshot1.png" alt="AppetizerListing" width="250">
-    <img src="path-to-screenshot2.png" alt="AppetizerDetails" width="250">
-    <img src="path-to-screenshot3.png" alt="Accounts" width="250">
-    <img src="path-to-screenshot3.png" alt="AppetizerOrder" width="250">
-    <img src="path-to-screenshot3.png" alt="AppetizerDelete" width="250">
+    <img src="AppetizerListing.png" alt="Appetizer Listing Screen" width="250">
+    <img src="AppetizerDetails.png" alt="Details View" width="250">
+    <img src="Accounts.png" alt="" width="250">
+    <img src="AppetizerOrder.png" alt="Order Screen" width="250">
+    <img src="AppetizerDelete.png" alt="Delete Functionality" width="250">
 </p>
 
 ---
