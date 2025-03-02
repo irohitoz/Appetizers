@@ -1,0 +1,16 @@
+{
+  "source": "/Users/Rohitoz/Documents/Appetizers/Appetizers/Screens/AppetizerListView/AppetizerDetailView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "$%.2f - Add to Order"
+      },
+      {
+        "comment": "",
+        "key": "%lld"
+      }
+    ]
+  },
+  "version": 1
+}

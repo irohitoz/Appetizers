@@ -1,0 +1,52 @@
+{
+  "source": "/Users/Rohitoz/Documents/Appetizers/Appetizers/Screens/AccountView/AccountView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "🤣 Account"
+      },
+      {
+        "comment": "",
+        "key": "Personal Info"
+      },
+      {
+        "comment": "",
+        "key": "Requests"
+      },
+      {
+        "comment": "",
+        "key": "First Name"
+      },
+      {
+        "comment": "",
+        "key": "Last Name"
+      },
+      {
+        "comment": "",
+        "key": "Email"
+      },
+      {
+        "comment": "",
+        "key": "Birthday"
+      },
+      {
+        "comment": "",
+        "key": "Save Changes"
+      },
+      {
+        "comment": "",
+        "key": "Extra Napkins"
+      },
+      {
+        "comment": "",
+        "key": "Frequent Refills"
+      },
+      {
+        "comment": "",
+        "key": "Dismiss"
+      }
+    ]
+  },
+  "version": 1
+}
